@@ -1,4 +1,3 @@
 import OS
-import logging
+import json
 
-logging.basicConfig(filename='testLogs.log', level=logging.DEBUG,format='%(message)s')
