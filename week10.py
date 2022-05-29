@@ -1,4 +1,4 @@
-import OS
+import os
 
 directory = input('Enter the directory name:')
 filename = directory+ input ('Enter the filename:')
